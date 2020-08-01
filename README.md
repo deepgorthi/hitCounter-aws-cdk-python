@@ -1,7 +1,7 @@
 
 # CDK Python project with Website Hit Counter!
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`cdkworkshop_stack`)
+It demonstrates a CDK app with an instance of a stack (`cdkworkshop_stack`)
 which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
